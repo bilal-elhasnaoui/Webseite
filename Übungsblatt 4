@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+    <script src="script.js"></script>
+    <h1 id="heading"><p>Durchgestrichen</p></h1>
+    <p>Ich bin Bilal.</p>
+    <p hidden>Das ist ein Test.</p>
+    <p>Ich lerne JavaScript.</p>
+<script>
+   document.getElementById("heading").style.color = "red";  
+   document.getElementById("heading").innerHTML = "Hello World!";
+   if("heading"="Durchgestrichen")
+   document.getElementById("heading").style.text.decoration.-through;
+</script>
+    
+   
+</head>
+</body>
+</html>

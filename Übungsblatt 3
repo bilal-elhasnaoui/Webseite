@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+<link rel="stylesheet" href="Übungsblatt 3.css">
+    <table>
+    <caption>Tabelle</caption>
+    <tr>Test</tr>
+    <th>Test</th>
+    <td>Test </td>
+    </table>
+    <style>
+        table{border-collapse: separate;}
+        table{border-spacing: 10px;}
+        table{width: 100%;}
+    </style>
+    <style>
+        tr{border-collapse: collapse;}
+        tr{border-spacing: 90px;}
+    </style>
+    <style>
+        td{border-collapse: separate;}
+        td{border-spacing: 80px;}
+    </style>
+
+
+</head>
+</body>
+</html>

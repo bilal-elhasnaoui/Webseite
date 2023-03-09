@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+    <!--Aufgabe 2.1-->
+    <p style="color:blue ;">Hallo Bilal El Hasnaoui</p>
+    <!--Aufgabe 2.3-->
+    <!--1.-->
+    <!--a.-->
+    <style>
+        p {text-transform: uppercase;}
+        </style>
+        <!--b.-->
+        <style>
+            p{letter-spacing: 20px}
+        </style>
+        <!--c.-->
+        <style>
+            p{text-indent: 10px}
+        </style>
+        
+        <!--2a.-->
+        <style>
+         ol{list-style-type: square}
+         </style>
+    <!--3.-->
+    <!--a.-->
+    <style>
+        p{border: dotted;}
+    </style>
+    <!--b.-->
+    <style>
+        p{border-left: 6px solid red;}
+    </style>
+    <!--c.-->
+    <style>
+        p{border-radius: 25px;}
+        p{border: 15px double;}
+    </style>
+    <!--4-->
+    <!--a.-->
+    <style>
+      p{font-size: xx-large;}
+    </style>
+    <!--b.-->
+    <style>
+        p{font-family: serif;}
+    </style>
+
+
+
+        
+</head>
+<p> test</p>
+</body>
+</html>

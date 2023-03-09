@@ -12,7 +12,9 @@
     <li>Mein Geburtstag ist am 5.12.2005</li>
     <li>Ich lebe in Rüsselsheim.</li>
     <li>Ich gehe auf das Max-Planck-Gymnasium</li>
+</ol>
     <!--Inhalt der Webseite-->
-    <img src="https://www.ruesselsheim.de/fileadmin/_processed_/csm_Max-Planck_8f1aa1a335.gif"
+    <img src="https://www.ruesselsheim.de/fileadmin/_processed_/csm_Max-Planck_8f1aa1a335.gif">
+    <!--Bild in der Webseite-->
 </body>
 </html>
