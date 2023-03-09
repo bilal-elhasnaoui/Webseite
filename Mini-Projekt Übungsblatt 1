@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1><p>Meine erste Mini-Webseite</p></h1>
+<!--Titel/Überschrift der Webseite-->
+<p>Dies ist meine erste Mini-Webseite.</p>
+<p>In dieser Webseite werde ich ein paar Fakten über mich auflisten.</p>
+<!--Beschreibung der Webseite-->
+<ol>
+    <li>Mein Name ist Bilal.</li>
+    <li>Ich bin 16 Jahre alt.</li>
+    <li>Mein Geburtstag ist am 5.12.2005</li>
+    <li>Ich lebe in Rüsselsheim.</li>
+    <li>Ich gehe auf das Max-Planck-Gymnasium</li>
+    <!--Inhalt der Webseite-->
+    <img src="https://www.ruesselsheim.de/fileadmin/_processed_/csm_Max-Planck_8f1aa1a335.gif"
+</body>
+</html>
